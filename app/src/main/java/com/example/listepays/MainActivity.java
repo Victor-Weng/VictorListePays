@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         paysList.add(new Pays("France",R.drawable.france,543940));
         paysList.add(new Pays("Inde",R.drawable.india,3287000));
         paysList.add(new Pays("Kenya",R.drawable.kenya,580367));
-        paysList.add(new Pays("Luxembourge",R.drawable.luxembourg,2586));
+        paysList.add(new Pays("Luxembourg",R.drawable.luxembourg,2586));
         paysList.add(new Pays("Malaisie",R.drawable.malaysia,329847));
         paysList.add(new Pays("Mozambique",R.drawable.mozambique,801590));
         paysList.add(new Pays("Roumanie",R.drawable.romania,238397));
